@@ -1,0 +1,4 @@
+DocuMind Enterprise is an internal Retrieval-Augmented Generation (RAG) system.
+It is designed to allow users to query enterprise documents using natural language.
+The system uses FAISS for vector search and a transformer-based embedding model.
+The backend is built using FastAPI and Docker for deployment.
